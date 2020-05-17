@@ -1,0 +1,11 @@
+[package]
+name = "tinymd"
+version = "0.1.0"
+authors = ["Vikram Venkataranan <vikram.venkataramanan@mail.utoronto.ca>"]
+edition = "2018"
+description = "A tiny markdown compiler based on Jesse's tutorials."
+homepage = "https://github.com/viktree/tiny-md-compiler"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
